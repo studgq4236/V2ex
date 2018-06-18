@@ -3,9 +3,6 @@
 这是一个仿写[V2EX](https://www.v2ex.com/)的网站，使用python的flask框架编写.
 
 ****
-|Author|simonzhoup|
-|---|---
-|E-mail|simonzhoup@gmail.com
 
 ## 特点
 完全仿写[V2EX](https://www.v2ex.com/), 虽然不太熟悉前段语言, 但力求一致, 算是一个很好的学习机会.
