@@ -111,7 +111,6 @@ def title_clean(t):
         tags=allowed_tags, strip=True))
     return title
 
-
 @main.route('/p/<int:id>',methods=['GET','POST'])
 def post(id):
     post = Post.query.get_or_404(id)
