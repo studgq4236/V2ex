@@ -9,7 +9,7 @@
 
 后端使用 `Flask` 框架编写
 
-有用到 `MySQL` `JavaScript` `CSS` `Bootstrap` `AJAX`
+有用到 `MySQL` `JQ` `CSS` `Bootstrap` `AJAX`
 
 
 ## 截图
